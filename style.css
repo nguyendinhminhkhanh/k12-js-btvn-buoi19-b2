@@ -1,0 +1,38 @@
+*{
+    margin: 0;;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 40px;
+    background: #e9e9e9;
+    display: flex;
+    justify-content: start;
+}
+.padding{
+    padding: 10px;
+    margin: 0 2px;
+    margin-top: 2px;
+}
+.tab{
+    border-radius: 4px 4px 0px 0px;
+    background: #f6f6f6;
+    border: 1px solid #333;
+    cursor: pointer;
+    
+}
+.clickCss{
+    background: #007fff;
+    border-bottom: none;
+    color: white;
+}
+.flex{
+    position: absolute;
+    padding-top: 20px;
+    left: 10px;
+    color: black;
+}
+.none{
+    display: none;
+}
